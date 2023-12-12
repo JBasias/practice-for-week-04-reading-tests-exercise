@@ -21,6 +21,7 @@ describe("isFive(num)", () => {
   });
 });
 
+
 describe("isOdd(number)", () => {
   it("should return true if number is odd", () => {
     const num1 = 3;
